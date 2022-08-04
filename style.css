@@ -1,5 +1,43 @@
+h1 {
+  color:red;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#featured-property {
+  text-align: center;
+
+}
+#details {
+  text-align: center;
+  padding: 10px;
+  background-color: grey;
+}
+#capt {
+  text-align: center;
+  font-size: 15px;
+}
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+#div1 {
+  text-align: center;
+  width: 25%;
+}
+#div2 {
+  text-align: center;
+  width: 25%;
+}
+#div3 {
+  text-align: center;
+  width: 25%;
+}
+#div4 {
+  text-align: center;
+  width: 25%;
 }
